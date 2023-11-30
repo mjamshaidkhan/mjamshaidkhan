@@ -8,18 +8,20 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Welcome to my account.
 As a seasoned software development professional, I offer tailored solutions to meet your unique business needs. My expertise encompasses the full software development life cycle, from conceptualization and design to implementation and maintenance. Whether you're a startup looking to build a cutting-edge application or an established enterprise in need of system optimization, 
 I provide the following services:
-•	Custom Software Development
-•	Web Application Development
-•	Mobile App Development
-•	Database Design and Optimization
-•	API Integration
-•	Software Testing and Quality Assurance
-•	Continuous Maintenance and Support
-
+*	Custom Software Development
+*	Web Application Development
+*	Mobile App Development
+*	Database Design and Optimization
+*	API Integration
+*	Software Testing and Quality Assurance
+*	Continuous Maintenance and Support
+Here is my upwork profile.
+https://www.upwork.com/freelancers/~01ff15bb93d1cf48b9?viewMode=1
 
 * 🌍  I'm based in Pakistan
 * ✉️  You can contact me at [muhammadjamshaidkhan@hotmail.com](mailto:muhammadjamshaidkhan@hotmail.com)
-* 🧠  I'm open for business 
+* 🧠  I'm open for business
+  
 
 ### Skills
 
