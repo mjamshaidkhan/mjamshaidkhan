@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 * Principle Software Engineer
 * Self-Employed
-* <a href="https://www.upwork.com/freelancers/~01ff15bb93d1cf48b9?viewMode=1" target="_blank"></a>
+* <a href="https://www.upwork.com/freelancers/~01ff15bb93d1cf48b9?viewMode=1" target="_blank" rel="noreferrer">Link to </a>
 -----------------------------------------------
 
 Welcome to my account.
