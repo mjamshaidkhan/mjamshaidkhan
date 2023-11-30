@@ -9,7 +9,7 @@ I have more than 11 years of experience in software development and designing.
 
 * 🌍  I'm based in Pakistan
 * ✉️  You can contact me at [muhammadjamshaidkhan@hotmail.com](mailto:muhammadjamshaidkhan@hotmail.com)
-* 🧠  I'm learning REACT
+* 🧠  I'm open for business 
 
 ### Skills
 
